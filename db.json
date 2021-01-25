@@ -2,166 +2,166 @@
   "search": [
     {
       "id": 1,
-      "nameFr": "absent",
+      "nameEn": "about",
       "data": [
-        "vắng mặt",
-        "thiếu"
+        "khoảng chừng",
+        "gần"
       ],
-      "IPA": "[apsɑ̃]",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0000210.mp3",
-      "gramma": "Danh từ giống đực",
-      "examFr1": "La gaieté est absente de cette maison",
-      "examVn1": "Căn nhà này thiếu sự vui tươi",
-      "examFr2": "Il est absent de son bureau",
-      "examVn2": "Ông ta không có mặt ở văn phòng",
+      "IPA": "[əˈbout]",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/00134.mp3",
+      "gramma": "Giới từ",
+      "examEn1": "walking about the town",
+      "examVn1": "Đi loanh quanh trong thành phố",
+      "examEn2": "look about you",
+      "examVn2": "hãy nhìn chung quanh bạn",
       "antonym": [
-        "Présent",
-        "Có mặt, hiện tại, này",
-        " Dire du mal des absents",
-        " Nói xấu những người vắng mặt"
+        "afar",
+        "Xa, ở xa, từ xa",
+        " for months he had loved her from afar",
+        " Trong nhiều tháng anh đã yêu cô ấy từ xa"
       ],
       "image": ""
     },
     {
       "id": 2,
-      "nameFr": "aller",
+      "nameEn": "after",
       "data": [
-        "đi"
+        "sau, sau khi"
       ],
-      "IPA": "[ale]",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0036840.mp3",
-      "gramma": "Nội động từ",
-      "examFr1": "Aller à pied /à cheval /en voiture",
-      "examVn1": "Đi bộ/đi ngựa/đi xe ô-tô",
-      "examFr2": "Allez plus vite !",
-      "examVn2": "Đi nhanh lên!",
+      "IPA": "[ˈaftər]",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/00973.mp3",
+      "gramma": "Giời từ",
+      "examEn1": "Afrer dinner",
+      "examVn1": "Sau bữa cơm",
+      "examEn2": "Summer comes after Spring",
+      "examVn2": "Mùa hạ đến liền sau mùa xuân",
       "antonym": [
-        "Rester",
-        "Còn lại, ở lại",
-        " Château dont il ne reste que des ruines",
-        " Lâu đài chỉ còn lại những tàn tích"
+        "before",
+        "Trước, đằng trước",
+        " I'll be back before long",
+        " Tôi sẽ trở về ngay bây giờ"
       ],
-      "image": "https://cdn.pixabay.com/photo/2017/09/03/17/26/woman-2711279_960_720.jpg"
+      "image": ""
     },
     {
       "id": 3,
-      "nameFr": "année",
+      "nameEn": "again",
       "data": [
-        "năm",
-        "tuổi"
+        "lại",
+        "lần nữa"
       ],
-      "IPA": "[ane]",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0101210.mp3",
-      "gramma": "Danh từ giống cái",
-      "examFr1": "Etudiant de deuxième année",
-      "examVn1": "Sinh viên năm hai",
-      "examFr2": "Elle est dans sa dix-huitième année",
-      "examVn2": "Cô ta đang tuổi mười tám",
+      "IPA": "[əˈɡen]",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/62882.mp3,
+      "gramma": "Trạng từ",
+      "examEn1": "Try again!",
+      "examVn1": "Thử lại lần nữa!",
+      "examEn2": "this will never happen again",
+      "examVn2": "Việc này sẽ không bao giờ diễn ra nữa",
       "antonym": [],
       "image": ""
     },
     {
       "id": 4,
-      "nameFr": "aujourd'hui",
+      "nameEn": "air",
       "data": [
-        "hôm nay",
-        "ngày nay",
-        "đời nay"
+        "không khí",
+        "không gian",
+        "không trung"
       ],
-      "IPA": "[oʒuʀdɥi]",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/fr_aujourd_hui.mp3",
-      "gramma": "Trạng từ",
-      "examFr1": "Il doit partir dès aujourd'hui",
-      "examVn1": "Nó phải ra đi ngay ngày hôm nay",
-      "examFr2": "Les jeunes d'aujourd'hui",
-      "examVn2": "Thanh niên thời nay",
+      "IPA": "[er]",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/01138.mp3",
+      "gramma": "Danh từ",
+      "examEn1": "Pure air",
+      "examVn1": "Không khí trong sạch",
+      "examEn2": "in the open air",
+      "examVn2": "ở ngoài trời",
       "antonym": [],
       "image": ""
     },
     {
       "id": 5,
-      "nameFr": "avion",
+      "nameEn": "all",
       "data": [
-        "máy bay",
-        "phi cơ"
+        "tất cả",
+        "toàn bộ"
       ],
-      "IPA": "[avjɔ̃]",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0002020.mp3",
-      "gramma": "Danh từ giống đực",
-      "examFr1": "Avion de lutte contre les incendies",
-      "examVn1": "Máy bay chữa cháy",
-      "examFr2": "Avion à réaction",
-      "examVn2": "Máy bay phản lực",
+      "IPA": "[ôl̃]",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/01342.mp3",
+      "gramma": "Tính từ",
+      "examEn1": "all Vietnam",
+      "examVn1": "Toàn bộ Việt Nam",
+      "examFr2": "all my plants have died",
+      "examVn2": "tất cả các cây cối của tôi đều đã chết",
       "antonym": [],
-      "image": "https://cdn.pixabay.com/photo/2017/09/06/12/55/virgin-2721333_960_720.jpg"
+      "image": ""
     },
     {
       "id": 6,
-      "nameFr": "croître ",
+      "nameEn": "between ",
       "data": [
-        "mọc",
-        "sinh trưởng"
+        "giữa",
+        "ở giữa"
       ],
-      "IPA": "[kʀwatʀ]",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/fr_croitre.mp3",
-      "gramma": "Động từ",
-      "examFr1": "Les végétaux croissent lentement",
-      "examVn1": "Cây sinh trưởng chậm",
-      "examFr2": "",
+      "IPA": "[bɪtwiːn]",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/04756.mp3",
+      "gramma": "Giới từ",
+      "examEn1": "I'm usually free between Tuesday and Thursday",
+      "examVn1": "tôi thường rảnh từ thứ ba đến thứ năm",
+      "examEn2": "",
       "examVn2": "",
       "antonym": [
-        "Baisser",
-        "Hạ thấp",
-        " Baisser un tableau",
-        " Hạ thấp bức tranh"
+        "around",
+        "Xung quanh",
+        " to travel around",
+        " Đi du lịch đó đây"
       ],
       "image": ""
     },
     {
       "id": 7,
-      "nameFr": "économie",
-      "IPA": "[ekɔnɔmi]",
+      "nameEn": "different",
+      "IPA": "[dɪfrənt]",
       "data": [
-        "tiết kiệm"
+        "khác, khác biệt"
       ],
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0027870.mp3",
-      "gramma": "Danh từ giống cái",
-      "examFr1": "Avoir le sens de l'économie",
-      "examVn1": "Có tính tiết kiệm",
-      "examFr2": "",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/15496.mp3",
+      "gramma": "Tính từ",
+      "examEn1": "he's very different from/to his brother ",
+      "examVn1": "nó rất khác với anh nó",
+      "examEn2": "",
       "examVn2": "",
       "antonym": [],
       "image": ""
     },
     {
       "id": 8,
-      "nameFr": "élever",
-      "IPA": "[el(ə)ve]",
+      "nameEn": "first",
+      "IPA": "[fɜːʳst]",
       "data": [
-        "chăn nuôi",
-        "nuôi nấng"
+        "trước tiên",
+        "trước hết"
       ],
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0010890.mp3",
-      "gramma": "Động từ",
-      "examFr1": "Élever des lapins",
-      "examVn1": "Nuôi thỏ",
-      "examFr2": "Élever un enfant",
-      "examVn2": "Nuôi nấng một đứa trẻ",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/21124.mp3",
+      "gramma": "Trạng từ",
+      "examEn1": "you must complete this work first",
+      "examVn1": "anh phải hoàn thành việc này trước",
+      "examEn2": "",
+      "examVn2": "",
       "antonym": [],
       "image": ""
     },
     {
       "id": 9,
-      "nameFr": "érable",
-      "IPA": "[eʀabl]",
+      "nameEn": "for",
+      "IPA": "[(fəʳ]",
       "data": [
-        "cây thích"
+        "thay cho"
       ],
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0052010.mp3",
-      "gramma": "Danh từ giống đực",
-      "examFr1": "",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/64381.mp3",
+      "gramma": "Giới từ",
+      "examEn1": "",
       "examVn1": "",
-      "examFr2": "",
+      "examEn2": "",
       "examVn2": "",
       "antonym": [],
       "image": ""
