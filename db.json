@@ -153,7 +153,7 @@
     {
       "id": 9,
       "nameEn": "for",
-      "IPA": "[(fəʳ]",
+      "IPA": "[fəʳ]",
       "data": [
         "thay cho"
       ],
@@ -161,6 +161,23 @@
       "gramma": "Giới từ",
       "examEn1": "",
       "examVn1": "",
+      "examEn2": "",
+      "examVn2": "",
+      "antonym": [],
+      "image": ""
+    },
+     {
+      "id": 10,
+      "nameEn": "fire",
+      "IPA": "[faɪəʳ]",
+      "data": [
+        "bắn",
+        "khai hoả"
+      ],
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/21038.mp3",
+      "gramma": "Động từ",
+      "examEn1": "he fired a shot at the retreating prisoners",
+      "examVn1": "anh ta bắn một phát súng vào các tù nhân đang rút lui",
       "examEn2": "",
       "examVn2": "",
       "antonym": [],
